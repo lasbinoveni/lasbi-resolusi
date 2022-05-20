@@ -3,7 +3,11 @@ Rencan Konten Lasbi
 -JavaScript
   * ES6
   * Framework 
+    Vue
+    React
 -Struktur data dasar
--PHP / Laravel
+-PHP Framework
+ * Laravel
 -Interview
 -Vlogs
+-Python
