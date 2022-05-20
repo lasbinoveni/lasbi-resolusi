@@ -4,6 +4,7 @@ Rencan Konten Lasbi
   * ES6
   * Framework 
     Vue
+    React
 -Struktur data dasar
 -PHP Framework
  * Laravel
