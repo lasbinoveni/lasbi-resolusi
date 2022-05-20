@@ -1,0 +1,4 @@
+Lasbi Resolusi
+- Belajar Database MySQL
+- Belajar javaScript
+- Menggunakan Ubuntu
