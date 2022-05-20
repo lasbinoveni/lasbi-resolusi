@@ -2,4 +2,3 @@ Lasbi Resolusi
 - Belajar Database MySQL
 - Belajar javaScript
 - Menggunakan Ubuntu
-- Belajar Nodejs
