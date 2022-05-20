@@ -1,6 +1,8 @@
 Rencan Konten Lasbi
 
 -JavaScript
+  * ES6
+  * Framework 
 -PHP / Laravel
 -Interview
 -Vlogs
